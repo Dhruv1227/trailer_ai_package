@@ -130,7 +130,7 @@ rm -rf data/raw
 
 ## 👨‍💻 Author
 
-**Meet Moradiya**  
+**Dhruv Patel**  
 MSc Computer Science, Lakehead University  
-📧 meet.moradiya@example.com  
-🔗 GitHub: [MeetMoradiya](https://github.com/MeetMoradiya)
+📧 dhruvpatel.work2024@gmail.com
+🔗 GitHub: [DhruvPatel](https://github.com/Dhrvu1227)
