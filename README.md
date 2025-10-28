@@ -133,4 +133,4 @@ rm -rf data/raw
 **Dhruv Patel**  
 MSc Computer Science, Lakehead University  
 📧 dhruvpatel.work2024@gmail.com
-🔗 GitHub: [DhruvPatel](https://github.com/Dhrvu1227)
+🔗 GitHub: [DhruvPatel](https://github.com/Dhruv1227)
